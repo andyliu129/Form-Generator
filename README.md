@@ -22,3 +22,5 @@ todo:
 
 - Slight error when others are using it
       - files aren't generating
+- need a good system on finding the right path to folder
+- also would be nice to gen a docx with role and shorted link of form
