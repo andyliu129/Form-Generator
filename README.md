@@ -19,3 +19,6 @@ todo:
     - this will be a combination of an input box and a dropdown to its left or right with the numbers
 
 - PRSTV system, its a big one
+
+- Slight error when others are using it
+      - files aren't generating
