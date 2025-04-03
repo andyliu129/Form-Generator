@@ -19,8 +19,12 @@ todo:
     - this will be a combination of an input box and a dropdown to its left or right with the numbers
 
 - PRSTV system, its a big one
+      - added, but needs to gen right stuff (multi option box for prstv, different to the multiple choice in fptp, so the title is not properly made)
 
 - Slight error when others are using it
       - files aren't generating
 - need a good system on finding the right path to folder
 - also would be nice to gen a docx with role and shorted link of form
+      - done to an extent, needs to give right links (reponders link, shortened)
+
+  
